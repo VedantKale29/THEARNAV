@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-15.3066 -6.4633 -10.8573 18.5312 1.7182 13.6397" area="0" targetId="1b3b211002c346048e7b94040036498a" name="groundfloor" pathAuthoring="1b3b211002c346048e7b94040036498a_authoring.glb" pathOcclusion="1b3b211002c346048e7b94040036498a_occlusion.3dt" pathNavMesh="1b3b211002c346048e7b94040036498a_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

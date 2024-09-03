@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-7.2596 -5.3043 -6.2856 14.6147 3.7563 8.0803" area="50" targetId="fbe465abf5c14fe7b1a425a0abafaf50" name="principle-gstair" pathAuthoring="fbe465abf5c14fe7b1a425a0abafaf50_authoring.glb" pathOcclusion="fbe465abf5c14fe7b1a425a0abafaf50_occlusion.3dt" pathNavMesh="fbe465abf5c14fe7b1a425a0abafaf50_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

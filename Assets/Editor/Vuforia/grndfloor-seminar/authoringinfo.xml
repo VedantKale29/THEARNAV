@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-11.6493 -6.3665 -9.4771 7.3288 2.1736 19.1566" area="0" targetId="c2c4a91c8e4c45f2861a4f8e855b008a" name="grndfloor-seminar" pathAuthoring="c2c4a91c8e4c45f2861a4f8e855b008a_authoring.glb" pathOcclusion="c2c4a91c8e4c45f2861a4f8e855b008a_occlusion.3dt" pathNavMesh="c2c4a91c8e4c45f2861a4f8e855b008a_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

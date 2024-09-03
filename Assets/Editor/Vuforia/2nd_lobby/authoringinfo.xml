@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-373.3026 -245.8299 -150.3063 -332.4418 -237.0735 -130.9679" area="0" targetId="cf2fa09a03a447e18487f5a721cfec43" name="2nd_lobby" pathAuthoring="cf2fa09a03a447e18487f5a721cfec43_authoring.glb" pathOcclusion="cf2fa09a03a447e18487f5a721cfec43_occlusion.3dt" pathNavMesh="cf2fa09a03a447e18487f5a721cfec43_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

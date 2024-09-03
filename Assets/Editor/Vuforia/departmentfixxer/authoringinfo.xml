@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="110.5037 -90.7844 157.2848 136.7980 -81.4581 194.0563" area="0" targetId="43b36ac8b27c4168834a54e303c6a20f" name="departmentfixxer" pathAuthoring="43b36ac8b27c4168834a54e303c6a20f_authoring.glb" pathOcclusion="43b36ac8b27c4168834a54e303c6a20f_occlusion.3dt" pathNavMesh="43b36ac8b27c4168834a54e303c6a20f_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

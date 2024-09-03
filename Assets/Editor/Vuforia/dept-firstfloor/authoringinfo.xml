@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-2.9541 -5.7219 -0.1332 15.7496 4.5026 16.9746" area="55" targetId="ef556ed2a4fb414fb76253e7ca2be157" name="dept-firstfloor" pathAuthoring="ef556ed2a4fb414fb76253e7ca2be157_authoring.glb" pathOcclusion="ef556ed2a4fb414fb76253e7ca2be157_occlusion.3dt" pathNavMesh="ef556ed2a4fb414fb76253e7ca2be157_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

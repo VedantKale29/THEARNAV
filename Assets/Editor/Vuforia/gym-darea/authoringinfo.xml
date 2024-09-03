@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-47.4449 -4.1688 0.9052 -33.8393 5.4963 31.8767" area="92" targetId="143e496aa40c4d5499e7155b00dfe116" name="gym-darea" pathAuthoring="143e496aa40c4d5499e7155b00dfe116_authoring.glb" pathOcclusion="143e496aa40c4d5499e7155b00dfe116_occlusion.3dt" pathNavMesh="143e496aa40c4d5499e7155b00dfe116_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-19.6276 -6.0701 -9.4742 9.6731 7.4183 14.4888" area="94" targetId="9bbaedd27ff14c5c9fac14149f224d10" name="gymkhana" pathAuthoring="9bbaedd27ff14c5c9fac14149f224d10_authoring.glb" pathOcclusion="9bbaedd27ff14c5c9fac14149f224d10_occlusion.3dt" pathNavMesh="9bbaedd27ff14c5c9fac14149f224d10_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

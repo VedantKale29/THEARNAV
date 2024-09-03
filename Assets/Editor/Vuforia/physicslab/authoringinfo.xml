@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-45.2036 -5.4996 -19.1154 2.7204 3.4343 3.4499" area="0" targetId="d045feab4c694f8a93970643fd264962" name="physicslab" pathAuthoring="d045feab4c694f8a93970643fd264962_authoring.glb" pathOcclusion="d045feab4c694f8a93970643fd264962_occlusion.3dt" pathNavMesh="d045feab4c694f8a93970643fd264962_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-9.8740 -9.9591 -22.0793 31.5768 4.3944 8.8828" area="151" targetId="ee1a67d8edc24db1b3152ba22d29a102" name="219tocompcentre" pathAuthoring="ee1a67d8edc24db1b3152ba22d29a102_authoring.glb" pathOcclusion="ee1a67d8edc24db1b3152ba22d29a102_occlusion.3dt" pathNavMesh="ee1a67d8edc24db1b3152ba22d29a102_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

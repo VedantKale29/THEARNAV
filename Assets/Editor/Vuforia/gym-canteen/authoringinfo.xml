@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-41.5330 -1.4157 -0.8836 -11.7600 5.7146 17.1827" area="66" targetId="e3c6ab184ab14cec942180d5d19657ed" name="gym-canteen" pathAuthoring="e3c6ab184ab14cec942180d5d19657ed_authoring.glb" pathOcclusion="e3c6ab184ab14cec942180d5d19657ed_occlusion.3dt" pathNavMesh="e3c6ab184ab14cec942180d5d19657ed_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

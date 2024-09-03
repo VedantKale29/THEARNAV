@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-351.9302 -247.2334 -145.0140 -292.9378 -236.4876 -113.5899" area="201" targetId="925e7b19611d45918b3f060a5b6db295" name="Darea" pathAuthoring="925e7b19611d45918b3f060a5b6db295_authoring.glb" pathOcclusion="925e7b19611d45918b3f060a5b6db295_occlusion.3dt" pathNavMesh="925e7b19611d45918b3f060a5b6db295_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-25.3456 -13.8601 -14.6003 15.4434 3.4128 6.4159" area="93" targetId="8723aa75401a4e60baed646432d8c4c0" name="canteenDareatoChemLab" pathAuthoring="8723aa75401a4e60baed646432d8c4c0_authoring.glb" pathOcclusion="8723aa75401a4e60baed646432d8c4c0_occlusion.3dt" pathNavMesh="8723aa75401a4e60baed646432d8c4c0_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
